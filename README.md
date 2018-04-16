@@ -5,5 +5,5 @@
 过渡动画transition的实现；
 mv模块运用了video-player组件
 
-![](shuipingZheng.github.io/static/img/20180416172201.png)
+![](https://shuipingZheng.github.io/static/img/20180416172201.png)
 
