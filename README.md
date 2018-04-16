@@ -6,4 +6,8 @@
 mv模块运用了video-player组件
 
 ![](https://shuipingZheng.github.io/static/img/20180416172201.png)
-
+![](https://shuipingZheng.github.io/static/img/20180416172241.png)
+![](https://shuipingZheng.github.io/static/img/20180416172233.png)
+![](https://shuipingZheng.github.io/static/img/20180416172223.png)
+![](https://shuipingZheng.github.io/static/img/20180416172250.png)
+![](https://shuipingZheng.github.io/static/img/20180416172259.png)
